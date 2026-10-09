@@ -160,7 +160,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Your Name - vache.vardanyan.vach@gmail.com
+Email - vache.vardanyan.vach@gmail.com
 
 Project Link: [https://github.com/yourusername/ccna-practice-exam-simulator](https://github.com/yourusername/ccna-practice-exam-simulator)
 
